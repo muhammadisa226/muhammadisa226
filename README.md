@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-isa-nuruddin-183439175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-isa-nuruddin-183439175/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-isa-nuruddin-183439175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-isa-n/" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100015422892911&eav=AfagdonyRn-OOsWfHPk1Bj2s_w9Uz-NUtygJUROyDMqy6a4BvizHjwZctaYJ1ueey5Q&ref_component=mfreebasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8&paipv=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad isa" height="30" width="40" /></a>
 <a href="https://instagram.com/muhissaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhissaa" height="30" width="40" /></a>
 </p>
