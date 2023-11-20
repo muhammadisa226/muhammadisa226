@@ -12,4 +12,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadisa226&show_icons=true&locale=en&layout=compact" alt="muhammadisa226" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadisa226)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadisa226&show_icons=true&locale=en&layout=compact)]
