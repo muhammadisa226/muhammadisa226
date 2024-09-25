@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a voice-app**
+ 🔭 I’m currently working on **a campaign-app**
  
  🌱 I’m currently learning **Typescript, Go Lang**
 
@@ -42,11 +42,11 @@
 </div> -->
 <div align="center">
     <h2 align="center">⚡ Frontend ⚡</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,typescript,go" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vue" /><br>
 </div>
 <div align="center">
     <h2 align="center">⚡ Backend ⚡</h2>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,laravel,express,flask,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,php,python,nodejs,laravel,express,flask,mysql" /><br>
 </div>
 <div align="center">
     <h2 align="center">⚡ Tools ⚡</h2>
